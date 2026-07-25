@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+chatbots;AI-assisted+dev+with+Claude+Code;Data+Science+%40+University+of+the+Punjab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Data+Science+%40+University+of+the+Punjab)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/areesha-riaz-828282362/">
   <img src="https://img.shields.io/badge/LinkedIn-241B5E?style=for-the-badge&logo=linkedin&logoColor=67E8F9" />
@@ -32,13 +32,13 @@ Data Science undergraduate (BS Data Science, University of the Punjab) with hand
 
 ### 📌 Featured Projects
 - **Rock,Paper,Scissors Game using Python** -- computer playing with player using random guesses with GUI made by tkinter, PIL
-- **TF-IDF Based Chatbot** — TF-IDF vectorization, cosine similarity, and semantic context matching
-- **RAG-Based System** — integrated a pretrained HuggingFace model with Groq's LLM API for context-aware responses
-- **Full-Stack Web App (AI-Assisted)** — built end-to-end using Claude Code launched via Ollama
-- **End-to-End ML Application** — full pipeline (preprocessing → feature engineering → training → evaluation) deployed with Streamlit
+- **TF-IDF Based Chatbot** -- TF-IDF vectorization, cosine similarity, and semantic context matching
+- **RAG-Based System** -- integrated a pretrained HuggingFace model with Groq's LLM API for context-aware responses
+- **Full-Stack Web App (AI-Assisted)** -- built end-to-end using Claude Code launched via Ollama
+- **End-to-End ML Application** -- complete pipeline (preprocessing → feature engineering → training → evaluation) deployed with Streamlit
 - -**Heuristic-Based AI Game** -- used different heuristics for AI to play Tic-Tac-Toe.
-- **Statistical Research on Social Media and Mental Health** — hypothesis testing, correlation analysis, and ML pattern detection
-- **Database & Power BI Analytics** — SQL/SSMS querying, ETL workflows with SSIS & SSAS, and Power BI dashboards for business insights
+- **Statistical Research on Social Media and Mental Health** -- hypothesis testing, correlation analysis, and ML pattern detection
+- **Database & Power BI Analytics** -- SQL/SSMS querying, ETL workflows with SSIS & SSAS, and Power BI dashboards for business insights
 
 ### 🛠️ Tech & Tools
 
