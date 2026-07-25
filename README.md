@@ -22,8 +22,8 @@
 Data Science undergraduate (BS Data Science, University of the Punjab) with hands-on experience through internships, academic research, and independent projects. I work with Python, SQL, Machine Learning, and Data Engineering, and I'm especially interested in **LLM APIs, RAG pipelines, and AI-assisted development**.
 
 - 🎓 BS Data Science, FCIT, University of the Punjab (2023 – 2027)
-- 🤖 **AI Intern at DecodeLabs** (June – July 2026) — built chatbots, recommendation systems, and clustering models
-- 🧪 **Data Science Intern at Developer Hub** — data preprocessing, EDA, and applied statistics
+- 🤖 **AI Intern at DecodeLabs** (June – July 2026) — built chatbots, recommendation systems, and classification models
+- 🧪 **Data Science Intern at Developer Hub** — data preprocessing, EDA, machine learning and applied statistics
 - 🤖 Built a **TF-IDF based chatbot** using NLP(cosine similarity, semantic matching).
 - 🔗 Built a **RAG-based system** by integrating a pretrained **HuggingFace model** with **Groq's LLM API** for context-aware responses
 - 🛠️ Hands-on with **Claude Code** (via Ollama) for AI-assisted full-stack development
