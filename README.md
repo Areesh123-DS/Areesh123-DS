@@ -24,19 +24,20 @@ Data Science undergraduate (BS Data Science, University of the Punjab) with hand
 - 🎓 BS Data Science, FCIT, University of the Punjab (2023 – 2027)
 - 🤖 **AI Intern at DecodeLabs** (June – July 2026) — built chatbots, recommendation systems, and clustering models
 - 🧪 **Data Science Intern at Developer Hub** — data preprocessing, EDA, and applied statistics
-- 🤖 Built a **TF-IDF based chatbot** (cosine similarity, semantic matching) — a separate project from the one below
+- 🤖 Built a **TF-IDF based chatbot** using NLP(cosine similarity, semantic matching).
 - 🔗 Built a **RAG-based system** by integrating a pretrained **HuggingFace model** with **Groq's LLM API** for context-aware responses
 - 🛠️ Hands-on with **Claude Code** (via Ollama) for AI-assisted full-stack development
-- 📎 Familiar with **n8n** (automation concepts) and **LangChain** (through coursework) — actively growing into AI agent & automation development
+- 📎 Familiar with **n8n** and **LangChain** (through coursework).
 - 🎨 Also design UI/UX prototypes in Figma (freelance, Upwork)
 
 ### 📌 Featured Projects
-
+- **Rock,Paper,Scissors Game using Python** -- computer playing with player using random guesses with GUI made by tkinter, PIL
 - **TF-IDF Based Chatbot** — TF-IDF vectorization, cosine similarity, and semantic context matching
 - **RAG-Based System** — integrated a pretrained HuggingFace model with Groq's LLM API for context-aware responses
 - **Full-Stack Web App (AI-Assisted)** — built end-to-end using Claude Code launched via Ollama
 - **End-to-End ML Application** — full pipeline (preprocessing → feature engineering → training → evaluation) deployed with Streamlit
-- **Social Media & Mental Health Research** — hypothesis testing (Z-test), correlation analysis, and ML pattern detection
+- -**Heuristic-Based AI Game** -- used different heuristics for AI to play Tic-Tac-Toe.
+- **Statistical Research on Social Media and Mental Health** — hypothesis testing, correlation analysis, and ML pattern detection
 - **Database & Power BI Analytics** — SQL/SSMS querying, ETL workflows with SSIS & SSAS, and Power BI dashboards for business insights
 
 ### 🛠️ Tech & Tools
