@@ -36,7 +36,7 @@ Data Science undergraduate (BS Data Science, University of the Punjab) with hand
 - **RAG-Based System** -- integrated a pretrained HuggingFace model with Groq's LLM API for context-aware responses
 - **Full-Stack Web App (AI-Assisted)** -- built end-to-end using Claude Code launched via Ollama
 - **End-to-End ML Application** -- complete pipeline (preprocessing → feature engineering → training → evaluation) deployed with Streamlit
-- -**Heuristic-Based AI Game** -- used different heuristics for AI to play Tic-Tac-Toe.
+- **Heuristic-Based AI Game** -- used different heuristics for AI to play Tic-Tac-Toe.
 - **Statistical Research on Social Media and Mental Health** -- hypothesis testing, correlation analysis, and ML pattern detection
 - **Database & Power BI Analytics** -- SQL/SSMS querying, ETL workflows with SSIS & SSAS, and Power BI dashboards for business insights
 
